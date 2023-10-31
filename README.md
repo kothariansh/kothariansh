@@ -1,6 +1,6 @@
 <img width="300px" align="right" style="float:right" src="https://media.tenor.com/Mmz0dJudGtoAAAAC/explosion-anime.gif" />
 <div>
-  <h2> Hi! I'm a 17 y/o developer & researcher</h2>
+  <h2> Hi! I'm a 18 y/o developer & researcher</h2>
   <ul>
     <li> Interested in research related to CS & Math</li>
     <li> Freshman at Purdue University
