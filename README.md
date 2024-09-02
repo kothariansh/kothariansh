@@ -1,6 +1,6 @@
 <img width="300px" align="right" style="float:right" src="https://media.tenor.com/Mmz0dJudGtoAAAAC/explosion-anime.gif" />
 <div>
-  <h2 style="border:none; margin-bottom:0;">Hi, I'm Ansh!</h2>
+  <strong style="font-size:24px;">Hi, I'm Ansh!</strong>
   <ul>
     <li>Interested in research related to quantitative finance, algorithmic trading, ML & AI.</li>
     <li>Sophomore at Purdue University</li>
