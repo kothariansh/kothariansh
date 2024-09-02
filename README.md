@@ -6,6 +6,6 @@
     <li>Sophomore at Purdue University</li>
     <li>Good amount of experience in Machine Learning, Artificial Intelligence, Game Theory, Reinforcement Learning, Blockchain Development, and Software Engineering</li>
     <li>Precious experience @ Google ML Labs and @ Wissen Info Technology ML.</li>
-    <li>Reach me at kothar18[at]purdue.edu </li>
+    <li>Reach me at <a href="mailto:kothar18@purdue.edu">kothar18@purdue.edu</a></li>
   </ul>
 </div>
