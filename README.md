@@ -2,10 +2,10 @@
 <div>
   <h2> Hi! I'm an 18 y/o developer & researcher</h2>
   <ul>
-    <li> Interested in research related to CS & Math</li>
-    <li> Freshman at Purdue University
-    <li> Languages: Python (& most DS related libraries), R, Web Dev (quite a few JS libraries), Google APIs, & Kubernetes</li>
-    <li> Hoping to create my own language soon!</li>
+    <li> Interested in research related to quantitative finance, algorithmic trading, ML & AI.</li>
+    <li> Sophomore at Purdue University
+    <li> Good amount of experience in Machine Learning, Artificial Intelligence, Game Theory, Reinforcement Learning, and Software Engineering</li>
+    <li> Precious experience @ Google ML Labs and @ Wissen Info Technology ML.</li>
   </ul>
 </div>
 
