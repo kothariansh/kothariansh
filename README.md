@@ -1,6 +1,6 @@
 <img width="300px" align="right" style="float:right" src="https://media.tenor.com/Mmz0dJudGtoAAAAC/explosion-anime.gif" />
 <div>
-  <h2> Hi! I'm an 18 y/o developer & researcher</h2>
+  <h2> Hi! I'm in Ansh!r</h2>
   <ul>
     <li> Interested in research related to quantitative finance, algorithmic trading, ML & AI.</li>
     <li> Sophomore at Purdue University
