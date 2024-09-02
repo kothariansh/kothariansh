@@ -1,4 +1,3 @@
-<img width="300px" align="right" style="float:right" src="https://media.tenor.com/Mmz0dJudGtoAAAAC/explosion-anime.gif" />
 <div>
   <h2 style="border-bottom:none; margin-bottom:0;">Hi, I'm Ansh!</h2>
   <ul>
