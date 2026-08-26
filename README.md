@@ -6,6 +6,6 @@
     <li>B.S. in Computer Engineering and Math from Purdue University</li>
     <li>Good amount of experience in Machine Learning, Artificial Intelligence, Game Theory, Reinforcement Learning, Blockchain Development, and Web-Based Software Engineering</li>
     <li>Previously @ Siemens P&R EDA and @ Wissen Info Technology ML</li>
-    <li>Reach me at <a href="mailto:kothar18@purdue.edu">kothar18@purdue.edu</a></li>
+    <li>Reach me at <a href="mailto:kothar18@purdue.edu">kothar18@purdue.edu or <a href="mailto:anshkothari558@gmail.com">anshkothari558@gmail.com </a></li>
   </ul>
 </div>
